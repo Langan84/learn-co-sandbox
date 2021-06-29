@@ -1,4 +1,5 @@
-Hi! 👋
+my-git-project $ git add README.md
+"Hi! 👋
 
 You've opened the IDE Sandbox. 🎉
 
